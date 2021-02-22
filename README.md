@@ -14,6 +14,8 @@
 ## 三、软件
 ### 压缩/解压
 * 「Bandizip」 官网：http://www.bandisoft.com/ | [下载页](http://www.bandisoft.com/bandizip/old/6/) | [V6.29安装版](https://wws.lanzous.com/i1USFl9f0qb) 密码：zero | [V6.29便携版](https://wws.lanzous.com/ir0TAl9ezze) 密码：zero
+### PDF阅读器
+* 「Sumatra PDF」官网：https://www.sumatrapdfreader.org/ | [下载页](https://www.sumatrapdfreader.org/download-free-pdf-viewer.html) | [V3.2安装版-64位](https://wws.lanzous.com/iS61Xm06etg) 密码：zero | [V3.2安装版-32位](https://wws.lanzous.com/iXgoKm06eyb) 密码：zero
 ### 批量文件/文件夹重命名
 * 「ReNamer」 官网：http://www.den4b.com/ | [下载页](http://www.den4b.com/products/renamer)
 ### 哈希校验
